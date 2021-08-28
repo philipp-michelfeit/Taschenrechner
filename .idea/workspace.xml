@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e0695f0-aa33-4b99-9d39-8fb13853ee91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Taschenrechner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaschenrechnerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaschenrechnerModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TaschenrechnerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculator-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taschenrechner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaschenrechnerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaschenrechnerModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaschenrechnerView.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator-icon.png" beforeDir="false" />
+    <list default="true" id="e3c9015a-2247-44e1-a2c6-261cbf204eef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,64 +12,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="1xMSvV4J6XKsFqkDIQ18JyvrsPT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1xMlasKaFmxoS6oaKrvle5r9qQg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Taschenrechner" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="JDK 17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Taschenrechner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3e0695f0-aa33-4b99-9d39-8fb13853ee91" name="Changes" comment="" />
-      <created>1630163698457</created>
+      <changelist id="e3c9015a-2247-44e1-a2c6-261cbf204eef" name="Changes" comment="" />
+      <created>1630172905147</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1630163698457</updated>
+      <updated>1630172905147</updated>
     </task>
-    <task id="LOCAL-00001" summary="initial commit">
-      <created>1630164141456</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1630164141456</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
